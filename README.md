@@ -1,7 +1,8 @@
 
   # Dashboard replica
 
-  This is a code bundle for Dashboard replica. The original project is available at https://www.figma.com/design/kQfCIfOmj8YfTjZxaoLhtR/Dashboard-replica.
+  This is a code bundle for Dashboard replica. The original project is available at 
+  https://moon-polar-52226141.figma.site
 
   ## Running the code
 
